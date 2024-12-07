@@ -1,6 +1,8 @@
-# Market Size Analysis Electric Vehicles
-Project Objective:
+# Market Size Analysis 
+# Electric Vehicles
+# Project Objective:
 The "Market Size Analysis: Electric Vehicles" project aims to analyze the current and future growth of the electric vehicle (EV) market by exploring key trends and patterns.
+
 The analysis will cover the following areas:
 1. EV Adoption Over Time: Examine the growth of the EV population by model year to understand how adoption rates have evolved.
 2. Geographical Distribution: Identify where EVs are most commonly registered, focusing on regions such as cities or counties.
